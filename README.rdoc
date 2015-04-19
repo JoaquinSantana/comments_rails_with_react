@@ -1,4 +1,4 @@
 == README
 
 This app is for learning purpose.
-Check this tutorial on [https://hackhands.com/react-rails-tutorial/]
+Check this tutorial on https://hackhands.com/react-rails-tutorial/
